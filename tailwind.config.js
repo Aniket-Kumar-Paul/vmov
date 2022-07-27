@@ -8,6 +8,9 @@ module.exports = {
     extend: {
       fontFamily: {
         logo: ['Titan One']
+      },
+      screens: {
+        "3xl": "2000px"
       }
     },
   },
